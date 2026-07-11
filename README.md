@@ -62,7 +62,7 @@ Passionate about transforming messy, raw data into beautiful, actionable insight
 ### 🤝 Let's Connect!
 
 <p align="left">
-  <a href="linkedin.com/in/malak-sayed-45932b2b0" target="_blank">
+  <a href="https://linkedin.com/in/malak-sayed-45932b2b0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:malaksayed2394@gmail.com">
